@@ -1,5 +1,5 @@
 # login-cadastro
-## Realizar cadastro e login 
+O projeto tem como objetivo aprimorar os conhecimentos 
 
 ## Instalação 
 
@@ -28,5 +28,6 @@ $ npm start
 
 ```
 
-[Imagem](https://github.com/joselainejrs/login-cadastro/blob/master/tela.png?w=600)
+[Imagem](https://github.com/joselainejrs/login-cadastro/blob/master/tela.png) { width=600px}
+
 
