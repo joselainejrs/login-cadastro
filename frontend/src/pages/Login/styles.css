@@ -1,0 +1,47 @@
+.login-container{
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    height: 80vh;
+    background-color: #564AE7;
+    margin: auto;
+}
+
+.login-container .logo{
+    float: right;
+    margin: 10px;
+}
+
+
+.login-container .info{
+    width: 100%;
+    max-width:442px; 
+    height: 480px;
+    border-radius: 19px;
+
+    clear: both;
+    margin-top: 100px;
+
+    background: rgba(255, 255, 255, 0.3);
+    
+    text-align: center;
+    margin: auto;
+}
+
+.login-container .info p {
+    font: 700 24px Roboto, sans-serif;
+    text-align: center;
+
+    color: #E5E5E5;
+
+    padding:  60px 0;
+
+}
+.login-container .forms form{
+    width: 100%;
+    max-width: 360px;
+    margin: auto;
+
+}
+
+

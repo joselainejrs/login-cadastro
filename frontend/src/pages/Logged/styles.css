@@ -1,0 +1,28 @@
+.logged-container .logo{
+    float: right;
+    margin: 10px;
+}
+
+.logged-container .disconnect img{
+    width:70px;
+    margin: 10px; 
+}
+
+.logged-container .logged-info {
+    margin: auto;
+    width: 800px;
+}
+
+.logged-container .logged-info img{
+    width: 779px;
+    height: 582px;
+    
+}
+
+.logged-container .logged-info p{
+    font: 700 48px Roboto, sans-serif;
+    text-align: center;
+
+    color: #E5E5E5;
+
+}

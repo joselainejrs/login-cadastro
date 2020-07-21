@@ -1,0 +1,57 @@
+.newpass-container{
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    height: 80vh;
+    background-color: #564AE7;
+    margin: auto;
+}
+
+.newpass-container .logo{
+    float: right;
+    margin: 10px;
+}
+
+
+.newpass-container .info{
+    width: 100%;
+    max-width:442px; 
+    height: 300px;
+    border-radius: 19px;
+
+    clear: both;
+    margin-top: 100px;
+
+    background: rgba(255, 255, 255, 0.3);
+    
+    text-align: center;
+    margin: auto;
+}
+
+.newpass-container .info .user-info {
+    font: 700 24px Roboto, sans-serif;
+    text-align: center;
+
+    color: #E5E5E5;
+
+    padding:  40px 0;
+}
+
+.newpass-container .info .user-log{
+    font: 400 20px Roboto, sans-serif;
+    text-align: justify;
+
+    padding-left: 40px;
+
+    color: #3125C1;
+}
+.newpass-container .forms form{
+    width: 100%;
+    max-width: 360px;
+}
+
+.newpass-container .forms form button{
+    margin: 40px ;
+}
+
+

@@ -1,0 +1,55 @@
+.register-container{
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    height: 80vh;
+    background-color: #564AE7;
+    margin: auto;
+}
+
+.register-container .logo{
+    float: right;
+    margin: 10px;
+}
+ 
+.register-container .info{
+    width: 100%;
+    max-width:442px; 
+    height: 470px;
+    border-radius: 19px;
+
+    clear: both;
+    margin-top: 100px;
+
+    background: rgba(255, 255, 255, 0.3);
+    
+    text-align: center;
+    margin: auto;    
+}
+
+.register-container .register-text {
+    font: 700 24px Roboto, sans-serif;
+
+    margin: 5px;
+    padding: 25px 0;
+    text-align: center;
+
+
+    box-sizing: border-box;
+
+    color: #E5E5E5;
+}
+ 
+.register-container form .term {
+    font: 400 18px Roboto, sans-serif;
+    text-align: center;
+
+    color: #E5E5E5;
+
+    padding:  20px 0;
+}
+
+.register-container form .term span {
+    font-weight: 700 ;
+}
+

@@ -1,0 +1,85 @@
+.forgotpass-container{
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    height: 80vh;
+    background-color: #564AE7;
+    margin: auto;
+}
+
+.forgotpass-container .logo{
+    float: right;
+    margin: 10px;
+}
+
+
+.forgotpass-container .info{
+    width: 100%;
+    max-width:442px; 
+    height: 340px;
+    border-radius: 19px;
+
+    clear: both;
+    margin-top: 100px;
+
+    background: rgba(255, 255, 255, 0.3);
+    
+    text-align: center;
+    margin: auto;
+}
+
+.forgotpass-container .info .text {
+    font: 700 24px Roboto, sans-serif;
+    text-align: center;
+
+    color: #E5E5E5;
+
+    padding:  40px 0;
+}
+
+.forgotpass-container .arrow {
+    width: 120px;
+    height: 15px;
+
+    display: flex;
+    justify-items: left;
+    justify-content: space-between;
+
+    
+}
+
+.forgotpass-container .arrow img{
+    width: 15px;
+    margin-left: 45px;
+    
+}
+
+.forgotpass-container .arrow a{
+    font: 700 14px Roboto, sans-serif;
+    color: #000000;
+
+    text-decoration: none;
+}
+
+.forgotpass-container .arrow a:hover{
+    text-decoration: underline;
+}
+
+.forgotpass-container .forms form{
+    clear: both;
+    width: 100%;
+    max-width: 360px;
+    margin: auto;
+
+}
+
+.forgotpass-container form p {
+    font: 500 16px Roboto, sans-serif;
+    color: #E5E5E5;
+
+    text-align: right;
+
+    margin-bottom: 20px;
+
+
+}
