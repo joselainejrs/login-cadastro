@@ -28,6 +28,4 @@ $ npm start
 
 ```
 
-[Imagem](https://github.com/joselainejrs/login-cadastro/blob/master/tela.png) { width=600px}
-
-
+![Imagem](https://github.com/joselainejrs/login-cadastro/blob/master/tela.png)
