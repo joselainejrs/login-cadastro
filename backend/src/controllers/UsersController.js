@@ -14,17 +14,17 @@ module.exports = {
     async create(request, response){
         const {username, email, password} = request.body;
     
-        const id = crypto.randomBytes(5).toString('HEX');
+        const codigo = crypto.randomBytes(5).toString('HEX');
     
         await connection('users').insert({
-            id,
+            codigo,
             username, 
             email, 
             password
         })
     
     
-        return response.json({ id });
+        return response.json({ codigo });
     },
 
     async update(request, response){
