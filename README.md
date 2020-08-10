@@ -1,4 +1,6 @@
-## The project aims to improve knowledge
+<h2 align="center">
+ The project aims to improve knowledge
+</h2>
 
 
 ### Installation
