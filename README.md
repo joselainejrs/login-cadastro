@@ -1,7 +1,7 @@
-# login-cadastro
-O projeto tem como objetivo aprimorar os conhecimentos 
+##The project aims to improve knowledge
 
-## Instalação 
+
+### Installation
 
 ```
 web
